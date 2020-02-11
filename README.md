@@ -1,5 +1,6 @@
 # Word Puzzle Solver
 A simple program to find words in a word puzzle
+Implemented for the coursework of INF2C-Computer Systems at University of Edinburgh
 
 ## File System
 There are two folders in the program. The "code/" directory stores the code to solve puzzles written in both C and MIPS. The "data" directory stores the puzzle grid and the vocabulary used to solve the puzzle.
